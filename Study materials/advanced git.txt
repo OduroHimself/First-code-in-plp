@@ -1,2 +1,0 @@
-https://www.geeksforgeeks.org/ultimate-guide-to-advanced-git-and-github-overview-of-gitlab-bitbucket/
-https://www.toptal.com/git/the-advanced-git-guide
